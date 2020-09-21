@@ -1,3 +1,3 @@
 # CoronaMeter
-![Screenshot](coronameter.jpg)
+![Screenshot](Screenshot_2020-09-21_03-41-03.png)
 

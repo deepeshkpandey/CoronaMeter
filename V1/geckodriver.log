@@ -1,0 +1,13 @@
+1598340871953	geckodriver	INFO	Listening on 127.0.0.1:39681
+1598340871957	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBKaY0U"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598340875182	Marionette	INFO	Listening on port 34723
+1598340875268	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mycurrentlocation.net/, line 641: TypeError: data.features[5] is undefined
+JavaScript warning: https://api.mapbox.com/mapbox-gl-js/v1.0.0/mapbox-gl.js, line 29: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://api.mapbox.com/mapbox-gl-js/v1.0.0/mapbox-gl.js, line 29: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://api.mapbox.com/mapbox-gl-js/v1.0.0/mapbox-gl.js, line 29: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://api.mapbox.com/mapbox-gl-js/v1.0.0/mapbox-gl.js, line 29: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://api.mapbox.com/mapbox-gl-js/v1.0.0/mapbox-gl.js, line 29: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://api.mapbox.com/mapbox-gl-js/v1.0.0/mapbox-gl.js, line 29: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1598340887064	Marionette	INFO	Stopped listening on port 34723
